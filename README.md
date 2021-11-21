@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/TyKo0707/TyKo0707/blob/main/assets/giphy.gif)](https://github.com/TyKo0707/Trading_bot)
 
 About me
 
