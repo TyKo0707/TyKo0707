@@ -12,7 +12,9 @@
 ![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=003B57)
 
 🔭 I’m currently working on [Trading Bot](https://github.com/TyKo0707/Trading_bot)
+
 🌱 I’m currently learning Tensorflow/Keras
+
 📫 How to reach me: 
 ![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
 
