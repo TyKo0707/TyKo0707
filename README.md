@@ -16,6 +16,7 @@
 🌱 I’m currently learning Tensorflow/Keras
 
 📫 How to reach me: 
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)
+
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/tym0704)
 
 
