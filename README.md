@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="http://yahooentertainment.tumblr.com/post/125283873734/the-night-before-is-the-drug-fueled-holiday-comedy" alt="JEWS"/>
 </p>
 
 ## I'm a Python programmer and I develop desktop and some web software with varying levels of complexity
