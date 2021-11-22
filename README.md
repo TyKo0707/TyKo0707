@@ -18,5 +18,6 @@
 📫 How to reach me: 
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/tym0704)
+[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/ty_ko07/)
 
 
