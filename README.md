@@ -1,4 +1,6 @@
-[![Header](https://github.com/TyKo0707/TyKo0707/blob/main/assets/giphy.gif)](https://github.com/TyKo0707/Trading_bot)
+<p align="center">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ## I'm a Python programmer and I develop desktop and some web software with varying levels of complexity
 
