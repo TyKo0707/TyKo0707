@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/joseph-gordon-levitt-anthony-mackie-the-night-before-kWZmJEXJcc5qw" alt="JEWS"/>
+  <img src="https://media4.giphy.com/media/kWZmJEXJcc5qw/giphy.gif?cid=790b7611225e52d180c118df8333e737543e79e830b1ca12&rid=giphy.gif&ct=g" alt="JEWS"/>
 </p>
 
 ## I'm a Python programmer and I develop desktop and some web software with varying levels of complexity
