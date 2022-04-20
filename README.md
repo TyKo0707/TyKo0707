@@ -4,7 +4,7 @@
 
 ## I'm a Python programmer and I develop desktop and some web software with varying levels of complexity
 
-### 🔭 I’m currently working on [Trading Bot](https://github.com/TyKo0707/Trading_bot)
+### 🔭 I’m currently working on [Stackoverflow search engine](https://github.com/TyKo0707/stackoverflow_search)
 
 ### 🌱 I’m currently learning Tensorflow/Keras
 
