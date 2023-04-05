@@ -1,6 +1,6 @@
 ## Hi everyone, my name is Tymur. I'm a Python developer currently studying at Charles University in Prague. I like to learn AI algorithms and improve my knowledge of neural networks (sometimes implementing them using Python).
 
-### 🔭 I’m currently working on [Stackoverflow search engine](https://github.com/TyKo0707/stackoverflow_search) and [Startup success prediction](https://github.com/TyKo0707/startups_success_predictor)
+### 🔭 I’m currently working on [Evaluation and comparison of spell checkers](https://gitlab.mff.cuni.cz/kotkovt/hunspelljetbrains)
 
 ### 🌱 I’m currently learning Tensorflow/Keras
 
