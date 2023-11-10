@@ -1,6 +1,6 @@
 ## Hi everyone, my name is Tymur. I'm a sophomore at Charles University in Prague.
 
-### 🔭 I’m currently working on [Evaluation and comparison of spell checkers](https://gitlab.mff.cuni.cz/kotkovt/hunspelljetbrains)
+### 🔭 I am currently not working on any projects except for study purposes.
 
 ### 🌱 I’m currently learning Tensorflow/Keras
 
