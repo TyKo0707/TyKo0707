@@ -1,4 +1,4 @@
-## Hi everyone, my name is Tymur. I'm a Python developer currently studying at Charles University in Prague. I like to learn AI algorithms and improve my knowledge of neural networks (sometimes implementing them using Python).
+## Hi everyone, my name is Tymur. I'm a sophomore at Charles University in Prague.
 
 ### 🔭 I’m currently working on [Evaluation and comparison of spell checkers](https://gitlab.mff.cuni.cz/kotkovt/hunspelljetbrains)
 
