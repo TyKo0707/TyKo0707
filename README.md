@@ -6,11 +6,10 @@
 
 ### 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
-![JetBrains](https://img.shields.io/badge/JetBrains-090909?style=for-the-badge&logo=JetBrains&logoColor=#000000)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=D00000)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-090909?style=for-the-badge&logo=Tensorflow&logoColor=FF6F00)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=00599C)
 ![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite&logoColor=003B57)
 
 
