@@ -1,4 +1,4 @@
-## Hi everyone, my name is Tymur. I'm a sophomore at Charles University in Prague.
+## Student at Charles University in Prague.
 
 ### 🔭 I am currently not working on any projects except for study purposes.
 
