@@ -2,8 +2,6 @@
 
 ### 🔭 I am currently not working on any projects except for study purposes.
 
-### 🌱 I’m currently learning Tensorflow/Keras
-
 ### 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=D00000)
