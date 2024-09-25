@@ -14,6 +14,6 @@
 ### 📫 How to reach me: 
 
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=26A5E4)](https://t.me/tym0704)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=26A5E4)](mailto:timurkotkov0707@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-090909??style=for-the-badge&logo=gmail&logoColor=white)](mailto:timurkotkov0707@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/ty_ko07/)
 
