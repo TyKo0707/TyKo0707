@@ -1,6 +1,6 @@
-## Student at Charles University in Prague.
+## Student at Charles University in Prague
 
-### 🔭 I am currently not working on any projects except for study purposes.
+### 🔭 I am currently not working on any projects except for study purposes
 
 
 ### 📫 How to reach me: 
